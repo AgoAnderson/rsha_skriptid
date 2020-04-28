@@ -22,4 +22,4 @@ Järjekord skriptide paigaldamiseks
 4. phpmyadmin
 5. Wordpress
 
-Asible skriptide vaatamiseks mine github.com/AgoAndertson/ansible-skriptid
+Ansible skriptide vaatamiseks mine github.com/AgoAndertson/ansible-skriptid
