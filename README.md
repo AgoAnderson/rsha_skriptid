@@ -3,7 +3,7 @@
 Siin on olemas skirptid apache, mysql, php, phpmyadmin ja wordpress'i serveri paigaldamiseks.
 Skripte saab käivitada käsuga
 ```
-sh ksripti_nimi.sh
+sh skripti_nimi.sh
 ```
 ### Git paigaldamine ja seadistamine
 ```
